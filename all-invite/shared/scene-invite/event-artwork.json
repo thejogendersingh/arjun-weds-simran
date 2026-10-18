@@ -1,0 +1,423 @@
+{
+  "sceneRangMahal": {
+    "Haldi & Carnival": {
+      "effect": "haldi",
+      "hint": "Tap the haldi bowl to colour their cheeks",
+      "plate": 2
+    },
+    "Sangeet": {
+      "effect": "dance",
+      "hint": "Tap the dhol to begin the Sangeet",
+      "plate": 3
+    },
+    "Wedding Ceremony": {
+      "effect": "garland",
+      "hint": "Tap the flowers to shower the couple",
+      "plate": 4
+    },
+    "Reception": {
+      "effect": "lights",
+      "hint": "Tap the diyas to light the evening",
+      "plate": 5
+    },
+    "Wedding": {
+      "effect": "garland",
+      "hint": "Tap the flowers to shower the couple",
+      "plate": 4
+    },
+    "Haldi": {
+      "effect": "haldi",
+      "hint": "Tap the haldi bowl to colour their cheeks",
+      "plate": 2
+    },
+    "Mehendi": {
+      "effect": "mehendi",
+      "hint": "Tap the mehendi hands to reveal the design",
+      "plate": 2
+    },
+    "Mehndi": {
+      "effect": "mehendi",
+      "hint": "Tap the mehendi hands to reveal the design",
+      "plate": 2
+    }
+  },
+  "sceneNeelSarovar": {
+    "Mehendi": {
+      "effect": "mehendi",
+      "hint": "Tap the mehendi hands to reveal the design",
+      "plate": 2
+    },
+    "Sangeet": {
+      "effect": "dance",
+      "hint": "Tap the dhol to begin the Sangeet",
+      "plate": 3
+    },
+    "Wedding Ceremony": {
+      "effect": "garland",
+      "hint": "Tap the mirror to see our forever",
+      "plate": 4
+    },
+    "Reception": {
+      "effect": "lights",
+      "hint": "Tap the lotus boat to float a wish",
+      "plate": 5
+    },
+    "Wedding": {
+      "effect": "garland",
+      "hint": "Tap the mirror to see our forever",
+      "plate": 4
+    },
+    "Mehndi": {
+      "effect": "mehendi",
+      "hint": "Tap the mehendi hands to reveal the design",
+      "plate": 2
+    },
+    "Haldi": {
+      "effect": "haldi",
+      "hint": "Tap the haldi bowl to colour their cheeks",
+      "plate": 2
+    }
+  },
+  "sceneGulabiDarbaar": {
+    "Haldi": {
+      "effect": "haldi",
+      "hint": "Tap the haldi bowl to colour their cheeks",
+      "plate": 2
+    },
+    "Sangeet": {
+      "effect": "dance",
+      "hint": "Tap the dhol to begin the Sangeet",
+      "plate": 3
+    },
+    "Wedding Ceremony": {
+      "effect": "arch",
+      "hint": "Tap the floral arch to open our celebration",
+      "plate": 4
+    },
+    "Reception": {
+      "effect": "procession",
+      "hint": "Tap the lantern to light the garden",
+      "plate": 5
+    },
+    "Wedding": {
+      "effect": "arch",
+      "hint": "Tap the floral arch to open our celebration",
+      "plate": 4
+    },
+    "Mehendi": {
+      "effect": "mehendi",
+      "hint": "Tap the mehendi hands to reveal the design",
+      "plate": 2
+    },
+    "Mehndi": {
+      "effect": "mehendi",
+      "hint": "Tap the mehendi hands to reveal the design",
+      "plate": 2
+    }
+  },
+  "sceneVanSarovar": {
+    "Mehendi": {
+      "effect": "mehendi",
+      "hint": "Tap the mehendi hands to reveal the design",
+      "plate": 2
+    },
+    "Haldi": {
+      "effect": "haldi",
+      "hint": "Tap the haldi bowl to colour their cheeks",
+      "plate": 3
+    },
+    "Sangeet": {
+      "effect": "dance",
+      "hint": "Tap the dhol to begin the Sangeet",
+      "plate": 4
+    },
+    "Wedding Ceremony": {
+      "effect": "forest-vows",
+      "hint": "Tap the flowers to shower our vows",
+      "plate": 5
+    },
+    "Wedding": {
+      "effect": "forest-vows",
+      "hint": "Tap the flowers to shower our vows",
+      "plate": 5
+    },
+    "Mehndi": {
+      "effect": "mehendi",
+      "hint": "Tap the mehendi hands to reveal the design",
+      "plate": 2
+    }
+  },
+  "sceneNoorMohabbat": {
+    "Mehendi": {
+      "effect": "mehendi",
+      "hint": "Tap the mehendi hands to reveal the design",
+      "plate": 2
+    },
+    "Dholki": {
+      "effect": "drum",
+      "hint": "Tap the dholki to set the rhythm",
+      "plate": 3
+    },
+    "Nikah": {
+      "effect": "nikah",
+      "hint": "Tap the lantern to light our welcome",
+      "plate": 4
+    },
+    "Walima": {
+      "effect": "lights",
+      "hint": "Tap the lamps to illuminate the Walima",
+      "plate": 5
+    },
+    "Mehndi": {
+      "effect": "mehendi",
+      "hint": "Tap the mehendi hands to reveal the design",
+      "plate": 2
+    }
+  },
+  "scenePhulkariCourtyard": {
+    "Maiyan & Mehendi": {
+      "effect": "maiyan",
+      "hint": "Tap the haldi bowl to colour their cheeks",
+      "plate": 2
+    },
+    "Jaggo": {
+      "effect": "jaggo",
+      "hint": "Tap the Jaggo lantern to raise the lights",
+      "plate": 3
+    },
+    "Anand Karaj": {
+      "effect": "blessing",
+      "hint": "Tap the flowers to open our welcome",
+      "plate": 4
+    },
+    "Reception": {
+      "effect": "dance",
+      "hint": "Tap the dhol to start the dancing",
+      "plate": 5
+    }
+  },
+  "scenePadmaPrangan": {
+    "Mehendi": {
+      "effect": "mehendi",
+      "hint": "Tap the mehendi hands to reveal the design",
+      "plate": 2
+    },
+    "Sangeet": {
+      "effect": "dance",
+      "hint": "Tap the dhol to begin the Sangeet",
+      "plate": 3
+    },
+    "Wedding Ceremony": {
+      "effect": "procession",
+      "hint": "Tap the lantern to light our welcome",
+      "plate": 4
+    },
+    "Reception": {
+      "effect": "lotus",
+      "hint": "Tap the lotus to unfold our wishes",
+      "plate": 5
+    },
+    "Wedding": {
+      "effect": "procession",
+      "hint": "Tap the lantern to light our welcome",
+      "plate": 4
+    },
+    "Mehndi": {
+      "effect": "mehendi",
+      "hint": "Tap the mehendi hands to reveal the design",
+      "plate": 2
+    }
+  },
+  "sceneRosewoodVows": {
+    "Welcome Brunch": {
+      "effect": "balloon",
+      "hint": "Tap the balloon to lift our welcome",
+      "plate": 2
+    },
+    "Rehearsal Dinner": {
+      "effect": "candles",
+      "hint": "Tap the candle to light the table",
+      "plate": 3
+    },
+    "Wedding Ceremony": {
+      "effect": "bells",
+      "hint": "Tap the bells to ring in our vows",
+      "plate": 4
+    },
+    "Reception": {
+      "effect": "waltz",
+      "hint": "Tap the couple for our first dance",
+      "plate": 5
+    },
+    "Wedding": {
+      "effect": "bells",
+      "hint": "Tap the bells to ring in our vows",
+      "plate": 4
+    }
+  },
+  "sceneSunehraAangan": {
+    "Mehendi": {
+      "effect": "mehendi",
+      "hint": "Tap the henna hands to bloom the garden",
+      "plate": 2
+    },
+    "Haldi": {
+      "effect": "haldi",
+      "hint": "Tap the bowl for a touch of haldi",
+      "plate": 3
+    },
+    "Sangeet": {
+      "effect": "dance",
+      "hint": "Tap the dhol to celebrate beneath the stars",
+      "plate": 4
+    },
+    "Baraat": {
+      "effect": "procession",
+      "hint": "Tap the lantern to welcome the Baraat",
+      "plate": 5
+    },
+    "Wedding Ceremony": {
+      "effect": "vows",
+      "hint": "Tap the flowers to shower our vows",
+      "plate": 6
+    },
+    "Reception": {
+      "effect": "lotus",
+      "hint": "Tap the lotus to send our wishes flying",
+      "plate": 7
+    },
+    "Wedding": {
+      "effect": "vows",
+      "hint": "Tap the flowers to shower our vows",
+      "plate": 6
+    },
+    "Mehndi": {
+      "effect": "mehendi",
+      "hint": "Tap the henna hands to bloom the garden",
+      "plate": 2
+    }
+  },
+  "sceneChandrikaUtsav": {
+    "Mehendi": {
+      "effect": "mehendi",
+      "hint": "Tap the henna hands to bloom the garden",
+      "plate": 2
+    },
+    "Haldi": {
+      "effect": "haldi",
+      "hint": "Tap the haldi bowl to colour their cheeks",
+      "plate": 3
+    },
+    "Sangeet": {
+      "effect": "dance",
+      "hint": "Tap the dhol to light our constellation",
+      "plate": 4
+    },
+    "Baraat": {
+      "effect": "royal-baraat",
+      "hint": "Tap the horse to begin the royal Baraat",
+      "plate": 5
+    },
+    "Wedding Ceremony": {
+      "effect": "celestial-vows",
+      "hint": "Tap the flowers for our fireworks celebration",
+      "plate": 6
+    },
+    "Vidai": {
+      "effect": "lake-vidai",
+      "hint": "Tap the couple to begin their new journey",
+      "plate": 7
+    },
+    "Wedding": {
+      "effect": "celestial-vows",
+      "hint": "Tap the flowers for our fireworks celebration",
+      "plate": 6
+    },
+    "Mehndi": {
+      "effect": "mehendi",
+      "hint": "Tap the henna hands to bloom the garden",
+      "plate": 2
+    }
+  },
+  "sceneNoorSarovar": {
+    "Mehendi": {
+      "effect": "mehendi",
+      "hint": "Tap the mehendi hands to reveal the design",
+      "plate": 2
+    },
+    "Dholki": {
+      "effect": "drum",
+      "hint": "Tap the dholki to set the rhythm",
+      "plate": 3
+    },
+    "Nikah": {
+      "effect": "nikah",
+      "hint": "Tap the lantern to light our welcome",
+      "plate": 4
+    },
+    "Walima": {
+      "effect": "candles",
+      "hint": "Tap the lantern to illuminate our Walima",
+      "plate": 5
+    },
+    "Mehndi": {
+      "effect": "mehendi",
+      "hint": "Tap the mehendi hands to reveal the design",
+      "plate": 2
+    }
+  },
+  "sceneAzureLakeChapel": {
+    "Welcome Brunch": {
+      "effect": "balloon",
+      "hint": "Tap the balloon to lift our welcome",
+      "plate": 2
+    },
+    "Rehearsal Dinner": {
+      "effect": "candles",
+      "hint": "Tap the candle to light the table",
+      "plate": 3
+    },
+    "Wedding Ceremony": {
+      "effect": "bells",
+      "hint": "Tap the bells to ring in our vows",
+      "plate": 4
+    },
+    "Reception": {
+      "effect": "waltz",
+      "hint": "Tap the couple for our first dance",
+      "plate": 5
+    },
+    "Wedding": {
+      "effect": "bells",
+      "hint": "Tap the bells to ring in our vows",
+      "plate": 4
+    }
+  },
+  "sceneKaveriThendral": {
+    "Welcome Evening": {
+      "effect": "kaveri-lamps",
+      "hint": "Tap the brass lamp to light our welcome",
+      "plate": 2
+    },
+    "Nalangu": {
+      "effect": "kaveri-kolam",
+      "hint": "Tap the kolam to bloom our blessings",
+      "plate": 3
+    },
+    "Wedding Ceremony": {
+      "effect": "kaveri-vows",
+      "hint": "Tap the jasmine to shower our vows",
+      "plate": 4
+    },
+    "Reception": {
+      "effect": "lotus",
+      "hint": "Tap the lotus to send our wishes skyward",
+      "plate": 5
+    },
+    "Wedding": {
+      "effect": "kaveri-vows",
+      "hint": "Tap the jasmine to shower our vows",
+      "plate": 4
+    }
+  }
+}

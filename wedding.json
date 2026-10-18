@@ -1,0 +1,68 @@
+{
+  "slug": "phulkari-courtyard",
+  "name": "Phulkari Courtyard",
+  "kind": "Punjabi Sikh · Heritage haveli",
+  "one": "Arjun",
+  "two": "Simran",
+  "surname": "Gill & Sandhu",
+  "parents": [
+    "Harjit & Jaspreet Gill",
+    "Gurpreet & Manpreet Sandhu"
+  ],
+  "venue": "The Phulkari Haveli",
+  "city": "Amritsar",
+  "date": "18–19 February 2027",
+  "ink": "#614329",
+  "accent": "#a52a64",
+  "glow": "#f6c25b",
+  "palette": "Saffron · Fuchsia · Indigo",
+  "desc": "Phulkari colour, a joyful Jaggo and a warm Punjabi welcome.",
+  "events": [
+    [
+      "Maiyan & Mehendi",
+      "18 February 2027",
+      "11:00 AM",
+      "The Marigold Courtyard",
+      "Laughter, colour & family blessings",
+      "maiyan",
+      "Tap the haldi bowl to colour their cheeks"
+    ],
+    [
+      "Jaggo",
+      "18 February 2027",
+      "7:00 PM",
+      "The Haveli Courtyard",
+      "An evening of music & celebration",
+      "jaggo",
+      "Tap the Jaggo lantern to raise the lights"
+    ],
+    [
+      "Anand Karaj",
+      "19 February 2027",
+      "10:00 AM",
+      "Gurdwara Sahib",
+      "Followed by langar",
+      "blessing",
+      "Tap the flowers to open our welcome"
+    ],
+    [
+      "Reception",
+      "19 February 2027",
+      "7:30 PM",
+      "The Haveli Garden",
+      "Dinner, dhol & dancing",
+      "dance",
+      "Tap the dhol to start the dancing"
+    ]
+  ],
+  "assetBase": "./assets/",
+  "assetOverrides": {
+    "couple-walk.webp": "./assets/couple-walk.webp",
+    "couple-wedding.webp": "./assets/couple-wedding.webp",
+    "couple-haldi.webp": "./assets/couple-haldi.webp",
+    "couple-evening.webp": "./assets/couple-evening.webp"
+  },
+  "active": true,
+  "sceneVariant": "woface",
+  "sceneDesignId": "scenePhulkariCourtyard"
+}

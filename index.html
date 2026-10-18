@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en" class="intro-active">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="theme-color" content="#f3eadc">
+  <meta name="robots" content="noindex,nofollow">
+  <title>Arjun & Simran — Phulkari Courtyard</title>
+  <meta name="description" content="Phulkari colour, a joyful Jaggo and a warm Punjabi welcome.">
+  <meta property="og:title" content="Arjun & Simran — Wedding Invitation">
+  <meta property="og:description" content="Phulkari colour, a joyful Jaggo and a warm Punjabi welcome.">
+  <meta property="og:type" content="website">
+  <meta property="og:image" content="./assets/social-preview.jpg">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="icon" href="./assets/favicon.png">
+  <link rel="preload" as="font" type="font/woff2" crossorigin href="./shared/scene-invite/fonts/cormorant-garamond-600.woff2">
+  <link rel="preload" as="image" href="./shared/scene-invite/intro/curtain-poster-v3.webp">
+  <link rel="stylesheet" href="./shared/scene-invite/intro.css?v=1">
+  <link rel="stylesheet" href="./shared/scene-invite/invite.css?v=scene-integration-20261004-1">
+  <script type="module" src="./shared/scene-invite/invite.js?v=signature-20261012-1"></script>
+  <link rel="stylesheet" href="./shared/scene-invite/phulkari.css?v=1">
+</head>
+<body>
+  <main class="stage" data-stage>
+    <div class="stage__device" data-stage-device>
+      <div class="viewport" data-stage-viewport aria-live="polite"></div>
+      <div class="nav-layer" data-nav-mount>
+        <button class="chrome sound" type="button" aria-label="Play music" aria-pressed="false"><span aria-hidden="true">♫</span></button>
+        <button class="chrome auto" type="button" aria-label="Pause autoplay" aria-pressed="true"><span aria-hidden="true">Ⅱ</span></button>
+        <button class="chrome previous" type="button" aria-label="Previous scene"><span aria-hidden="true">‹</span></button>
+        <button class="chrome next" type="button" aria-label="Next scene"><span aria-hidden="true">›</span></button>
+        <nav class="dots" aria-label="Invitation scenes"></nav>
+        <div class="timer" aria-hidden="true"><i></i></div>
+      </div>
+      <div class="ms-intro" data-intro role="button" tabindex="0" aria-label="Tap the curtain to open the invitation">
+        <video class="ms-intro__video" data-intro-video muted playsinline webkit-playsinline preload="auto" disablepictureinpicture disableremoteplayback poster="./shared/scene-invite/intro/curtain-poster-v3.webp" aria-hidden="true">
+          <source src="./shared/scene-invite/intro/curtain-editable-v1.mp4" type="video/mp4">
+        </video>
+        <img class="ms-intro__poster" data-intro-poster src="./shared/scene-invite/intro/curtain-poster-v3.webp" alt="" fetchpriority="high" draggable="false">
+        <div class="ms-intro__hint" data-intro-hint aria-hidden="true">
+          <span class="ms-intro__mark"><span class="ms-intro__core"></span></span>
+          <p class="ms-intro__chip" data-intro-chip></p>
+        </div>
+      </div>
+      <p class="load-error" role="alert" hidden>We couldn't load the invitation. Please refresh to try again.</p>
+    </div>
+  </main>
+  <noscript><p>Arjun & Simran · 18–19 February 2027 · The Phulkari Haveli, Amritsar</p></noscript>
+</body>
+</html>

@@ -1,0 +1,18 @@
+/* Quiet garden lights and the same glowing title arrival as Van Sarovar. */
+.scene[data-theme=phulkari-courtyard] .copy.glow-reveal{--title-glow-soft:#f4d4a680;--title-glow-hard:#fceac9e6}
+.scene[data-theme=phulkari-courtyard] .copy.glow-reveal.text-writing>.ink-block{animation:none}
+.scene[data-theme=phulkari-courtyard] .copy.glow-reveal.text-writing .ink-g{display:inline;animation:phulkari-title-glow 500ms ease-out calc(var(--text-delay,200ms) + var(--letter,0)*45ms) both}
+@keyframes phulkari-title-glow{0%{opacity:0;text-shadow:none}55%{opacity:1;text-shadow:0 0 7px var(--title-glow-hard),0 0 18px var(--title-glow-soft),0 0 34px var(--title-glow-soft)}100%{opacity:1;text-shadow:inherit}}
+.phulkari-firefly{position:absolute;width:calc(.8 * var(--u));height:calc(.8 * var(--u));border-radius:50%;background:#ffebb5;box-shadow:0 0 calc(1.6 * var(--u)) calc(.3 * var(--u)) #ffdf7966;z-index:7;opacity:0;pointer-events:none;animation:phulkari-mote 16s ease-in-out infinite}
+@keyframes phulkari-mote{0%,100%{opacity:.08;transform:translate(0,0) scale(.8)}30%,60%{opacity:.55;transform:translate(calc(var(--drift) * .5),-2cqw) scale(1)}85%{opacity:.15;transform:translate(var(--drift),-5cqw) scale(.8)}}
+.scene[data-theme=phulkari-courtyard] .falling-petal{background:#dc365c;box-shadow:inset 0 1px 2px #ffc8db99}
+.scene[data-theme=phulkari-courtyard] .falling-petal:nth-child(even){background:#f28ab2}
+.phulkari-bird{position:absolute;width:9%;height:6%;z-index:5;opacity:0;pointer-events:none;filter:drop-shadow(0 1px 1px #24362b33)}
+.phulkari-bird .sprite{position:absolute;inset:0;object-fit:contain;object-position:center;animation:phulkari-wings-up .8s linear infinite}
+.phulkari-bird .dove-wings-down{animation-name:phulkari-wings-down}
+@keyframes phulkari-wings-up{0%,44%{opacity:1}50%,94%{opacity:0}100%{opacity:1}}
+@keyframes phulkari-wings-down{0%,44%{opacity:0}50%,94%{opacity:1}100%{opacity:0}}
+.phulkari-bird-idle{left:-12%;bottom:46%;width:7%;animation:phulkari-sky-flight 15s linear infinite}
+@keyframes phulkari-sky-flight{0%,3%{opacity:0;transform:translate(0,0) scale(.8)}8%{opacity:.75}30%{opacity:.75;transform:translate(58cqw,-8cqw) scale(.9)}53%,100%{opacity:0;transform:translate(125cqw,-15cqw) scale(.8)}}
+.scene[hidden] .phulkari-firefly,.scene[hidden] .phulkari-bird,.scene[hidden] .phulkari-bird .sprite{animation-play-state:paused}
+@media(prefers-reduced-motion:reduce){.phulkari-firefly,.phulkari-bird,.phulkari-bird .sprite,.scene[data-theme=phulkari-courtyard] .copy.glow-reveal.text-writing .ink-g{animation:none}.phulkari-firefly{opacity:.25}.phulkari-bird-idle{display:none}.phulkari-bird .dove-wings-up{opacity:1}.phulkari-bird .dove-wings-down{opacity:0}}
